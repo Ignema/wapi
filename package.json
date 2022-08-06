@@ -1,0 +1,26 @@
+{
+  "name": "wapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deepai": "^1.0.21",
+    "dotenv": "^16.0.1",
+    "qrcode-terminal": "^0.12.0",
+    "scrape-youtube": "^2.3.2",
+    "text-to-mp3": "^1.0.4",
+    "whatsapp-web.js": "^1.17.1",
+    "youtube-dl-exec": "^2.1.4",
+    "youtube-mp3-downloader": "^0.7.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
