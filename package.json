@@ -17,7 +17,6 @@
     "scrape-youtube": "^2.3.2",
     "text-to-mp3": "^1.0.4",
     "whatsapp-web.js": "^1.17.1",
-    "youtube-dl-exec": "^2.1.4",
     "youtube-mp3-downloader": "^0.7.10"
   },
   "devDependencies": {
